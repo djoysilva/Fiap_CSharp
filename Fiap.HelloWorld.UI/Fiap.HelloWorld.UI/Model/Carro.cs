@@ -10,5 +10,11 @@ namespace Fiap.HelloWorld.UI.Model
     {
         public String Placa { get; set; }
 
+        public Carro(string modelo) : base(modelo) { }
+
+        public override void Frear()
+        {
+            Console.WriteLine("ABS ativado");
+        }
     }
 }

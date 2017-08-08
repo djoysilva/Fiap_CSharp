@@ -4,3 +4,9 @@ C:\Users\logonrm\Desktop\Fiap.HelloWorld.UI\Fiap.HelloWorld.UI\bin\Debug\Fiap.He
 C:\Users\logonrm\Desktop\Fiap.HelloWorld.UI\Fiap.HelloWorld.UI\obj\Debug\Fiap.HelloWorld.UI.csprojResolveAssemblyReference.cache
 C:\Users\logonrm\Desktop\Fiap.HelloWorld.UI\Fiap.HelloWorld.UI\obj\Debug\Fiap.HelloWorld.UI.exe
 C:\Users\logonrm\Desktop\Fiap.HelloWorld.UI\Fiap.HelloWorld.UI\obj\Debug\Fiap.HelloWorld.UI.pdb
+C:\Users\logonrm\Desktop\Fiap_CSharp\Fiap.HelloWorld.UI\Fiap.HelloWorld.UI\bin\Debug\Fiap.HelloWorld.UI.exe.config
+C:\Users\logonrm\Desktop\Fiap_CSharp\Fiap.HelloWorld.UI\Fiap.HelloWorld.UI\obj\Debug\Fiap.HelloWorld.UI.exe
+C:\Users\logonrm\Desktop\Fiap_CSharp\Fiap.HelloWorld.UI\Fiap.HelloWorld.UI\obj\Debug\Fiap.HelloWorld.UI.pdb
+C:\Users\logonrm\Desktop\Fiap_CSharp\Fiap.HelloWorld.UI\Fiap.HelloWorld.UI\bin\Debug\Fiap.HelloWorld.UI.exe
+C:\Users\logonrm\Desktop\Fiap_CSharp\Fiap.HelloWorld.UI\Fiap.HelloWorld.UI\bin\Debug\Fiap.HelloWorld.UI.pdb
+C:\Users\logonrm\Desktop\Fiap_CSharp\Fiap.HelloWorld.UI\Fiap.HelloWorld.UI\obj\Debug\Fiap.HelloWorld.UI.csprojResolveAssemblyReference.cache
