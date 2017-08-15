@@ -1,0 +1,28 @@
+﻿
+@{
+    ViewBag.Title = "Cadastrar";
+}
+
+<h2 class="col-sm-12 col-form-label">Cadastrar</h2>
+
+  <form action="/cerveja/salvar" method="post">
+      <div class="container">
+          <div class="form-group col-sm-12 col-form-label">
+              <label for="Nome">Nome:</label>
+              <input type="text" name="Nome" id="nome" class="form-control" required/>
+          </div>
+          <div class="form-group col-sm-12 col-form-label">
+              <label for="Validade">Validade:</label>
+              <input type="date" name="Validade" id="validade" class="form-control" required/>
+          </div>
+          <div class="form-group col-sm-12 col-form-label">
+              <label for="Teor">Teor:</label>
+              <input type="number" name="Teor" id="teor" class="form-control" required/>
+          </div>
+          <div class="form-group col-sm-12 col-form-label">
+              <input type="submit" value="SALVAR" name="Salvar" class="btn btn-primary" />
+          </div>
+       </div>
+</form>
+
+

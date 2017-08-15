@@ -1,0 +1,22 @@
+﻿@model Exemplo2.MVC.Models.Cerveja
+
+@{
+    ViewBag.Title = "Salvar";
+}
+<div>
+    <h2 class="alert-success">@ViewBag.nomeCerveja Cadastrada com sucesso!</h2>
+</div>
+
+    <h3>Nome via view: @ViewBag.nomeCerveja</h3>
+    <h3>Teor alcoolico via view: @ViewBag.teorCerveja</h3>
+    <h3>Validade via view: @ViewBag.validadeCerveja</h3>
+    
+    <!-- show data with another way -->
+    <h3>Mensagem via TempData: @TempData["msg"]</h3>
+
+    <!-- show data with another way -->
+    <h3>Nome via model:@Model.Nome</h3>
+    <h3>Teor via model:@Model.Teor</h3>
+    <h3>Validade via model:@Model.Validade</h3>
+
+
